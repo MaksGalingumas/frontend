@@ -1,0 +1,15 @@
+body {
+  font-family: Helvetica; }
+
+.content {
+  margin: 100px; }
+  .content--centered {
+    text-align: center; }
+  .content__description {
+    color: #999; }
+
+header {
+  background: #afafaf; }
+
+footer {
+  background: #afafaf; }
